@@ -22,9 +22,19 @@
 ##C/C++学习线路
 ##PHP学习线路
 ##Android学习线路
-##ACM学习线路
-##Python学习线路
 
+入门书籍：第一行代码、Android群英传
+
+高阶书籍：Android开发艺术探索
+
+
+##ACM学习线路
+
+入门书籍：啊哈算法、算法竞赛入门经典（第二版）、算法艺术与信息学竞赛
+
+[ACM学习文档（密码：298k）](http://pan.baidu.com/s/1geSxKND)
+
+##Python学习线路
 
 [Python学习](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 
