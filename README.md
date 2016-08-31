@@ -16,10 +16,20 @@
 
 ##2012级
 
+[VideoControlView](https://github.com/meunicorn/VideoControlView)
+
+
 ##
 
 ##JAVA学习线路
 ##C/C++学习线路
+
+	1.下载Coursera APP
+	2.查看计算机导论与C语言入门 
+	3.北京大学课程 旁听
+	4.跳过计算机导论，直接看C语言
+	5.后续课程跟学校同步，如数据结构教材作者来讲数据结构。
+
 ##PHP学习线路
 ##Android学习线路
 
